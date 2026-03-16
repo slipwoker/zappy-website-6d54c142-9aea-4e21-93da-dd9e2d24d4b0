@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+משרד עורכי דין MZ-Law מתמחה בחדלות פירעון, ייעוץ עסקי מסחרי, ליווי משפטי שוטף לעסקים וחברות ניהול. פתרונות משפטיים מקצועיים בדיני אזרחי ופלילי.
+
+### דיני אזרחי
+https://example.com/civil
+ייעוץ משפטי לחברות ניהול בתים משותפים, פתרון סכסוכי שכנים, ליווי ועדי בתים, תביעות רשלנות בנייה וגישור. שירות אישי ומקצועי עם ניסיון עשיר בתחום האזרחי.
+
+### דיני פלילי
+https://example.com/criminal
+עורך דין פלילי מנוסה המתמחה בכל קשת הדינים הפליליים. ייצוג משפטי אגרסיבי ואפקטיבי בתיקים פליליים מורכבים. הגנה מקצועית עם הבנה עסקית מעמיקה.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם משרד עורכי דין MZ-Law לייעוץ משפטי מקצועי. עורך דין לחדלות פירעון לעסקים, ייצוג אזרחי ופלילי. פתרונות משפטיים מותאמים אישית לצרכיכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
